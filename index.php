@@ -2,6 +2,6 @@ WELCOME PEOPLE
 <br/>
 <pre>
 <?php
-print 'ifconfig';
+print 'Hope you all are fine';
 ?>
 </pre>
